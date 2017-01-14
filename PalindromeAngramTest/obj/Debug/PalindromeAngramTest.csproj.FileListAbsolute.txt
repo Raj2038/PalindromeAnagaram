@@ -1,0 +1,8 @@
+c:\users\anu\documents\visual studio 2015\Projects\PalindromeAnagram\PalindromeAngramTest\bin\Debug\PalindromeAngramTest.dll
+c:\users\anu\documents\visual studio 2015\Projects\PalindromeAnagram\PalindromeAngramTest\bin\Debug\PalindromeAngramTest.pdb
+c:\users\anu\documents\visual studio 2015\Projects\PalindromeAnagram\PalindromeAngramTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\anu\documents\visual studio 2015\Projects\PalindromeAnagram\PalindromeAngramTest\bin\Debug\PalindromeAnagram.exe
+c:\users\anu\documents\visual studio 2015\Projects\PalindromeAnagram\PalindromeAngramTest\bin\Debug\PalindromeAnagram.pdb
+c:\users\anu\documents\visual studio 2015\Projects\PalindromeAnagram\PalindromeAngramTest\obj\Debug\PalindromeAngramTest.csprojResolveAssemblyReference.cache
+c:\users\anu\documents\visual studio 2015\Projects\PalindromeAnagram\PalindromeAngramTest\obj\Debug\PalindromeAngramTest.dll
+c:\users\anu\documents\visual studio 2015\Projects\PalindromeAnagram\PalindromeAngramTest\obj\Debug\PalindromeAngramTest.pdb

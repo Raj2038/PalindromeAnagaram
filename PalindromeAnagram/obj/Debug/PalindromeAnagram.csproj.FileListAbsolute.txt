@@ -1,0 +1,5 @@
+c:\users\anu\documents\visual studio 2015\Projects\PalindromeAnagram\PalindromeAnagram\bin\Debug\PalindromeAnagram.exe.config
+c:\users\anu\documents\visual studio 2015\Projects\PalindromeAnagram\PalindromeAnagram\bin\Debug\PalindromeAnagram.exe
+c:\users\anu\documents\visual studio 2015\Projects\PalindromeAnagram\PalindromeAnagram\bin\Debug\PalindromeAnagram.pdb
+c:\users\anu\documents\visual studio 2015\Projects\PalindromeAnagram\PalindromeAnagram\obj\Debug\PalindromeAnagram.exe
+c:\users\anu\documents\visual studio 2015\Projects\PalindromeAnagram\PalindromeAnagram\obj\Debug\PalindromeAnagram.pdb
